@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayLiga", "PlayLiga\PlayLiga.csproj", "{6706806D-E4D0-45E7-B832-3CAB3664B33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile", "OpenFileManager\OpenFile.csproj", "{1C1BDD40-70C7-4D35-9D21-D142E3D6AA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6706806D-E4D0-45E7-B832-3CAB3664B33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6706806D-E4D0-45E7-B832-3CAB3664B33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6706806D-E4D0-45E7-B832-3CAB3664B33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6706806D-E4D0-45E7-B832-3CAB3664B33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1BDD40-70C7-4D35-9D21-D142E3D6AA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1BDD40-70C7-4D35-9D21-D142E3D6AA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1BDD40-70C7-4D35-9D21-D142E3D6AA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1BDD40-70C7-4D35-9D21-D142E3D6AA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {388083AD-046A-4FFA-BB12-963B86ED669E}
+	EndGlobalSection
+EndGlobal
